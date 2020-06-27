@@ -41,3 +41,6 @@ Usage: `check50 cs50/problems/2018/ap/problem_name`
 ## Documentation
 
 <https://cs50.readthedocs.io/>
+
+## Google Classroom
+<https://classroom.google.com/>
