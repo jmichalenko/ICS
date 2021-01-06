@@ -16,7 +16,7 @@ Students are expected to submit all problems! If students would like to receive 
 
 ## Prerequisites
 
-The only background required for CS50 for AP Computer Science Principles is completion of Algebra I or its equivalent.
+The only background required for CS50 for AP Computer Science Principles is some knowledge of Algebra.
 
 ## Books
 
